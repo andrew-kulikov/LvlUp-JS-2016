@@ -1,0 +1,65 @@
+body {
+  background-image: url(images/2.jpg);
+}
+h1 {
+  text-align: center;
+  font-size: 200%;
+}
+h2 {
+  text-align: center;
+  font-size: 200%;
+}
+button {
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 120%;
+  border-radius: 7px;
+  padding: 5px;
+  border-style: solid;
+  border-color: #dac394;
+  background-color: #a58d37;
+}
+img {
+  float: left;
+  display: inline-block;
+  width: 13%;
+}
+.main {
+  text-align: center;
+}
+.inAction {
+  /*text-align: center;*/
+  color: #674e04;
+}
+.form {
+  margin: 10px;
+  padding: 15px;
+  text-align: left;
+  border-radius: 10px;
+  border-width: 4px;
+  border-color: rgba(224, 185, 88, 0.8);
+  background-color: #ffe7be;
+  font-size: 120%;
+}
+.number {
+  text-align: center;
+  font-size: 150%;
+}
+.info {
+  margin-left: auto;
+  margin-top: 10px;
+  font-size: 120%;
+  font-style: italic;
+}
+#fname {
+  margin-top: auto;
+}
+#imUrl {
+  margin-bottom: auto;
+}
+/*p {
+  text-align: center;
+  font-size: 150%;
+  color: #ffd12a;
+}*/
