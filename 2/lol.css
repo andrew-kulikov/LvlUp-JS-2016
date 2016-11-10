@@ -1,0 +1,48 @@
+/*.header > p:first-child {   применение  тлоько к первому p
+  /*text-align: center;
+  display: block;
+  position: absolute;
+  left: 10%;
+  font-size: 500%;
+  margin-top: 200px;
+  color: #def124;
+}
+
+/*p {
+  color: #bebebe;
+}*/
+
+/*.content {
+  /*font-size: 127%;
+  font-family: sans-serif;
+  display: inline-block;
+  left: 70px;
+  padding: 10px;
+  background-color: #def124;
+}
+.content > p {
+  position: relative;
+  top: 0;
+
+  display: block;
+  position: absolute;
+  background-color: #def124;
+  margin-top: 150px;
+  margin-left: 10%;
+  margin-right: 15%;
+  padding-left: 50px;
+}*/
+.banner {
+  background-image: url('3.png');
+  background-size: contain;
+  height: 1000px;
+  width: 1000px;
+  background-repeat: no-repeat;
+  margin: 100px;
+}
+.banner > button {
+  display: block;
+  position: relative;
+  top: 100px;
+  right: 15px;
+}
